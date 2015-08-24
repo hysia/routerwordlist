@@ -1,0 +1,1351 @@
+Vendor  /Product  /Version /Username  /Password  /Level
+
+3COM  AirConnect AP -    comcomcom  - 
+ 3COM  CellPlex 7000  tech   tech  - 
+ 3COM  CoreBuilder 7000/6000/3500/2500  debug   synnet  - 
+ 3COM  CoreBuilder 7000/6000/3500/2500  tech   tech  - 
+ 3COM  HiPerARC v4.1.x  adm   (none)  - 
+ 3COM  LANplex 2500  debug   synnet  - 
+ 3COM  LANplex 2500  tech   tech  - 
+ 3COM  LinkSwitch 2000/2700  tech   tech  - 
+ 3COM  - -  adm   (none)  - 
+ 3COM  - -  admin   synnet  - 
+ 3COM  - -  manager   manager  - 
+ 3COM  - -  monitor   monitor  - 
+ 3COM  - -  read   synnet  - 
+ 3COM  - -  security   security  - 
+ 3COM  - -  write   synnet  - 
+ 3COM  NetBuilder - -  ANYCOM  - 
+ 3COM  Office Connect ISDN Routers 5x0 -  PASSWORD  Admin 
+ 3COM  OfficeConnect Remote Router 812 ADSL, 840 SDSL  root   !root  Administrator 
+ 3COM  Superstack 3 switch 4900  recover   recover  Administrator 
+ 3COM  SuperStack II Switch 1100/3300  monitor   monitor  Monitor 
+ 3COM  SuperStack II Switch 1100/3300  manager   manager  Manager 
+ 3COM  SuperStack II Switch 1100/3300  admin   (none)  Admin 
+ 3COM  SuperStack II Switch 1100/3300  security   security  Admin 
+ 3COM  SuperStack II Switch 2200  debug   synnet  - 
+ 3COM  SuperStack II Switch 2700  tech   tech  - 
+ 3COM  US Robotics ADSL Router 8550  (none)   12345  Administrator 
+ 3COM  Wireless AP -    comcomcom  - 
+ Accelerated Networks  DSL CPE and DSLAM -  sysadm   anicust  - 
+ ADC Kentrox  Pacesetter Router - -  secret  - 
+ Adtran  MX2800 - -  adtran  - 
+ Advanced Integration  PC BIOS - -  Advance  Admin 
+ AirLink Plus  RTW026 V0.80.0010 (firmware)  (none)   admin  Administrator 
+ Aladdin  eSafe Appliance -  root   kn1TG7psLu  root 
+ Alcatel  PBX 4400  halt   tlah  - 
+ Alcatel  PBX 4400  install   llatsni  - 
+ Alcatel  PBX 4400  dhs3pms   dhs3pms  - 
+ Alcatel  PBX 4400  adfexc   adfexc  - 
+ Alcatel  PBX 4400  client   client  - 
+ Alcatel  PBX 4400  kermit   kermit  - 
+ Alcatel  PBX 4400  dhs3mt   dhs3mt  - 
+  
+Alcatel  PBX 4400  at4400   at4400  - 
+ Alcatel  PBX 4400  mtch   mtch  - 
+ Alcatel  PBX 4400  mtcl   mtcl  - 
+ Alcatel  PBX 4400  root   letacla  root 
+ Allied Telesyn  Rapier G6 Switch -    manager  friend 
+ Allnet  ALL129DSL -  admin   admin  Administrator 
+ Alteon  ACEswitch 180e  admin   admin  Admin 
+ Alteon  ACEswitch 180e  admin   (none)  - 
+ AMI  PC BIOS - -  AM  Admin 
+ AMI  PC BIOS - -  AMI  Admin 
+ AMI  PC BIOS - -  A.M.I  Admin 
+ AMI  PC BIOS - -  AMI_SW  Admin 
+ AMI  PC BIOS - -  AMI?SW  Admin 
+ AMI  PC BIOS - -  aammii  Admin 
+ AMI  PC BIOS - -  AMI!SW  Admin 
+ AMI  PC BIOS - -  AMI.KEY  Admin 
+ AMI  PC BIOS - -  AMI.KEZ  Admin 
+ AMI  PC BIOS - -  AMI~  Admin 
+ AMI  PC BIOS - -  AMIAMI  Admin 
+ AMI  PC BIOS - -  AMIDECOD  Admin 
+ AMI  PC BIOS - -  AMIPSWD  Admin 
+ AMI  PC BIOS - -  AMISETUP  Admin 
+ AMI  PC BIOS - -  BIOSPASS  Admin 
+ AMI  PC BIOS - -  CMOSPWD  Admin 
+ AMI  PC BIOS - -  HEWITT RAND  Admin 
+ Amptron  PC BIOS - -  Polrty  Admin 
+ Apache  Tomcat -  admin   tomcat  - 
+ Apache  Tomcat -  admin   admin  - 
+ Apache  Tomcat -  tomcat   tomcat  - 
+ Apache  Tomcat -  admin   tomcat  - 
+ Apache  Tomcat -  root   root  - 
+ Apache  Tomcat -  role1   role1  - 
+ Apache  Tomcat -  role   changethis  - 
+ Apache  Tomcat -  root   changethis  - 
+ Apache  Tomcat -  tomcat   changethis  - 
+ Apache Project  - Apache  jj   (none)  script 
+ APC  AP9606 SmartSlot Web/SNMP Management Card AOS 3.2.1 and AOS 3.0.3  (any)   TENmanUFactOryPOWER  - 
+ APC  Call-UPS AP9608 -  serial number of the Call-UPS  Admin 
+ APC  MasterSwitch AP9210  apc   apc  Admin 
+ APC  Powerchute Plus 4.x for Netware 3.x/4.x  POWERCHUTE   APC  Admin 
+  APC  Share-UPS AP9207 -  serial number of the Share-UPS  Admin 
+ APC  SNMP Adapter 2.x  apc   apc  - 
+ APC  Web/SNMP Management Card AP9606  apc   apc  Admin 
+ Ascend  Router - -  ascend  Admin 
+ AST  PC BIOS - -  SnuFG5  Admin 
+ AT&T  3B2 Firmware - -  mcp  Admin 
+ Attachmate  Attachmate Gateway - -  PASSWORD  Admin 
+ Audioactive  MPEG Realtime Encoders - -  telos  Admin 
+ Autodesk  Autocad -  autocad   autocad  User 
+ Avaya  routers -  root   root  Administrator 
+ Avenger News System (ANS)  ANS -    Administrative  - 
+ AWARD  PC BIOS - -  Award  Admin 
+ AWARD  PC BIOS - -  AWARD_SW  Admin 
+ AWARD  PC BIOS - -  SW_AWARD  Admin 
+ AWARD  PC BIOS - -  AWARD?SW  Admin 
+ AWARD  PC BIOS - -  lkwpeter  Admin 
+ AWARD  PC BIOS - -  j262  Admin 
+ AWARD  PC BIOS - -  j256  Admin 
+ AWARD  PC BIOS - -  ?award  Admin 
+ AWARD  PC BIOS - -  1322222  Admin 
+ AWARD  PC BIOS - -  256256  Admin 
+ AWARD  PC BIOS - -  589589  Admin 
+ AWARD  PC BIOS - -  589721  Admin 
+ AWARD  PC BIOS - -  admin  Admin 
+ AWARD  PC BIOS - -  alfarome  Admin 
+ AWARD  PC BIOS - -  aLLy  Admin 
+ AWARD  PC BIOS - -  aPAf  Admin 
+ AWARD  PC BIOS - -  AWARD SW  Admin 
+ AWARD  PC BIOS - -  award.sw  Admin 
+ AWARD  PC BIOS - -  award_?  Admin 
+ AWARD  PC BIOS - -  award_ps  Admin 
+ AWARD  PC BIOS - -  AWARD_PW  Admin 
+ AWARD  PC BIOS - -  awkward  Admin 
+ AWARD  PC BIOS - -  BIOS  Admin 
+ AWARD  PC BIOS - -  biosstar  Admin 
+ AWARD  PC BIOS - -  biostar  Admin 
+ AWARD  PC BIOS - -  CONCAT  Admin 
+ AWARD  PC BIOS - -  condo  Admin 
+ AWARD  PC BIOS - -  (none)  CONDO 
+ AWARD  PC BIOS - -  djonet  Admin 
+  
+AWARD  PC BIOS - -  efmukl  Admin 
+ AWARD  PC BIOS - -  g6PJ  Admin 
+ AWARD  PC BIOS - -  h6BB  Admin 
+ AWARD  PC BIOS - -  HELGA-S  Admin 
+ AWARD  PC BIOS - -  HEWITT RAND  Admin 
+ AWARD  PC BIOS - -  HLT  Admin 
+ AWARD  PC BIOS - -  j09F  Admin 
+ AWARD  PC BIOS - -  j322  Admin 
+ AWARD  PC BIOS - -  j64  Admin 
+ AWARD  PC BIOS - -  lkw peter  Admin 
+ AWARD  PC BIOS - -  PASSWORD  Admin 
+ AWARD  PC BIOS - -  SER  Admin 
+ AWARD  PC BIOS - -  setup  Admin 
+ AWARD  PC BIOS - -  SKY_FOX  Admin 
+ AWARD  PC BIOS - -  SWITCHES_SW  Admin 
+ AWARD  PC BIOS - -  Sxyz  Admin 
+ AWARD  PC BIOS - -  SZYX  Admin 
+ AWARD  PC BIOS - -  t0ch20x  Admin 
+ AWARD  PC BIOS - -  t0ch88  Admin 
+ AWARD  PC BIOS - -  TTPTHA  Admin 
+ AWARD  PC BIOS - -  TzqF  Admin 
+ AWARD  PC BIOS - -  wodj  Admin 
+ AWARD  PC BIOS - -  ZAAADA  Admin 
+ AWARD  PC BIOS - -  zbaaaca  Admin 
+ AWARD  PC BIOS - -  zjaaadc  Admin 
+ Axis Communications  Axis Network Camera 2120, 2110, 2100, 200+, 200  root   pass  Admin 
+ Axis Communications  Printserver 540/540+  root   pass  Admin 
+ Bay Networks  Router -  Manager   (none)  Admin 
+ Bay Networks  Router -  User   (none)  User 
+ Bay Networks  SuperStack II -  security   security  Admin 
+ Bay Networks  Switch 350T -  NetICs  Admin 
+ Bea  WebLogic Process Integrator 2.0  system   security  - 
+ Bea  WebLogic Process Integrator 2.0  admin   security  - 
+ Bea  WebLogic Process Integrator 2.0  mary   password  - 
+ Bea  WebLogic Process Integrator 2.0  joe   password  - 
+ Bea  WebLogic Process Integrator 2.0  wlpisystem   wlpisystem  - 
+ Bea  WebLogic Process Integrator 2.0  wlcsystem   wlcsystem  - 
+ BestPractical  RT -  root   password  Administrator 
+ Bintec  Bianka Routers -  admin   bintec  Admin 
+ Biostar  PC BIOS - -  Biostar  Admin 
+  
+Biostar  PC BIOS - -  Q54arwms  Admin 
+ BizDesign  ImageFoliio 2.2  Admin   ImageFolio  Administrator 
+ BizDesign  ImageFolio Pro 2.2  Admin   ImageFolio  Admin 
+ Breezecom  Breezecom Adapters 2.x -  laflaf  Admin 
+ Breezecom  Breezecom Adapters 3.x -  Master  Admin 
+ Breezecom  Breezecom Adapters 4.4.x -  Helpdesk  Admin 
+ Breezecom  Breezecom Adapters 4.x -  Super  Admin 
+ Brocade  Fabric OS 3.x  root   fivranne  Administrator 
+ Brocade  Fabric OS 3.x  admin   password  Administrator 
+ BT  Voyager 2000 -  admin   admin  Administrator 
+ Cabletron  Netgear modem/router and SSR -  netman   (none)  Admin 
+ Cabletron  routers & switches -  (none)   (none)  - 
+ Cayman  DSL Router -  admin   (none)  Admin 
+ Cayman  DSL Router -  admin   (serial number)  - 
+ CGI World  Poll It v2.0 -  protection  User/Admin over package 
+ Chuming Chen  NessusWeb -  administrator   adminpass  Administrator 
+ Cisco  AIR-AP1231G-A-K9 -  Cisco   Cisco  Administrator 
+ Cisco  Cisco IDS -  root   attack  Administrator 
+ Cisco  CiscoWorks 2000 -  guest   (none)  User 
+ Cisco  CiscoWorks 2000 -  admin   cisco  Admin 
+ Cisco  ConfigMaker -  cmaker   cmaker  Admin 
+ Cisco  IOS 2600 series -  c  - 
+ Cisco  IOS -  ripeop   (no pw)  - 
+ Cisco  IOS -  cisco   cisco  - 
+ Cisco  IOS -  enable   cisco  - 
+ Cisco  IOS - -  cc  - 
+ Cisco  IOS - -  cisco  - 
+ Cisco  IOS - -  Cisco router  - 
+ Cisco  IOS -  public ReadOnly access   secret  Read 
+ Cisco  IOS -  private ReadWrite access   secret  Read/Write 
+ Cisco  PIX - -  cisco  UID = pix 
+ Cisco  Trailhead 4.0  admin   admin  Administrator 
+ Cisco  Unity 1.3.2  bubba   (unknown)  - 
+ Cisco-Arrowpoint  Arrowpoint -  admin   system  Admin 
+ Claris  At-Ease -  (none)   familymacintosh  - 
+ Compaq  Familiar Linux -  root   rootme  Admin 
+ Compaq  Insight Manager -  anonymous   (none)  User 
+ Compaq  Insight Manager -  user   public  User 
+ Compaq  Insight Manager -  operator   operator  - 
+ Compaq  Insight Manager -  administrator   administrator  Admin 
+ Compaq  PC BIOS - -  Compaq  Admin 
+ Compaq  WBEM -  administrator   administrator  Administrator 
+ Compualynx  Cmail Server All Versions  administrator   asecret  Admin 
+ Compualynx  Cproxy Server All Versions  administrator   asecret  Admin 
+ Compualynx  SCM All Versions  administrator   asecret  Admin 
+ Concord  PC BIOS - -  last  Admin 
+ Crystalview  OutsideView 32 - -  Crystal  Admin 
+ CTX International  PC BIOS - -  CTX_123  Admin 
+ CyberMax  PC BIOS - -  Congress  Admin 
+ Cyclades  Cyclades-TS800 TS800  root   (none)  administrative 
+ Cyclades  Cyclades-TS800 TS800  root   tslinux  administrative 
+ Cyclades  PR-1000 -  super   surt  Admin 
+ D-Link  604 -  Admin   (none)  Administrator 
+ D-Link  DI-624 -  admin   (none)  - 
+ D-Link  DSL-504 -  (none)   private  Administrator 
+ D-LINK  DSL-G664T -  admin   admin  Administrator 
+ D-Link  hubs/switches -  D-Link   D-Link  - 
+ D-Link  Routers DI-764  admin   (none)  Administrator 
+ Daewoo  PC BIOS - -  Daewuu  Admin 
+ Dallas Semiconductors  TINI embedded JAVA Module <= 1.0  root   tini  Admin 
+ Data General  AOS/VS -  operator   operator  Admin 
+ Data General  AOS/VS -  op   op  Admin 
+ Data General  AOS/VS -  op   operator  Admin 
+ Datacom  BSASX/101 - -  letmein  Admin 
+ Datacom  NSBrowse -  sysadm   sysadm  Admin 
+ Daytek  PC BIOS - -  Daytec  Admin 
+ Debian  Linux LILO Default 2.2 -  tatercounter2000  Admin 
+ Deerfield  WorldClient and MDaemon 5.0.5.0  MDaemon   MServer  - 
+ Dell  ERA -  root   calvin  Administrator 
+ Dell  Lattitude CMOS CPi  (none)   nz0u4bbe  - 
+ Dell  PC BIOS - -  Dell  Admin 
+ Dell  Poweredge 1655MC  admin   admin  Administrator 
+ Dell  RAC -  root   calvin  Administrator 
+ Dell  Switch PowerConnect -  admin   admin  Administrator 
+ Develcon  Orbitor Default Console - -  BRIDGE  Admin 
+ Develcon  Orbitor Default Console - -  password  Admin 
+ Dictaphone  ProLog -  NETOP   (none)  - 
+ Dictaphone  ProLog -  NETWORK   NETWORK  - 
+ Dictaphone  ProLog -  PBX   PBX  - 
+ Digicorp  Viper - -  BRIDGE  Admin 
+   Digicorp  Viper - -  password  Admin 
+ Digicraft Software  Yak! 2.0.1  Yak   asd123  - 
+ Digital Equipment  10-Dec -  1   syslib  Admin 
+ Digital Equipment  10-Dec -  1   operator  Admin 
+ Digital Equipment  10-Dec -  1   manager  Admin 
+ Digital Equipment  10-Dec -  2   maintain  Admin 
+ Digital Equipment  10-Dec -  2   syslib  Admin 
+ Digital Equipment  10-Dec -  2   manager  Admin 
+ Digital Equipment  10-Dec -  2   operator  Admin 
+ Digital Equipment  10-Dec -  30   games  User 
+ Digital Equipment  10-Dec -  5   games  User 
+ Digital Equipment  10-Dec -  7   maintain  User 
+ Digital Equipment  DEC-10 -  1   syslib  Admin 
+ Digital Equipment  DEC-10 -  1   operator  Admin 
+ Digital Equipment  DEC-10 -  1   manager  Admin 
+ Digital Equipment  DEC-10 -  2   maintain  Admin 
+ Digital Equipment  DEC-10 -  2   syslib  Admin 
+ Digital Equipment  DEC-10 -  2   manager  Admin 
+ Digital Equipment  DEC-10 -  2   operator  Admin 
+ Digital Equipment  DEC-10 -  30   games  User 
+ Digital Equipment  DEC-10 -  5   games  User 
+ Digital Equipment  DEC-10 -  7   maintain  User 
+ Digital Equipment  DecServer - -  ACCESS  Admin 
+ Digital Equipment  DecServer - -  SYSTEM  Admin 
+ Digital Equipment  IRIS -  accounting   accounting  Admin 
+ Digital Equipment  IRIS -  boss   boss  Admin 
+ Digital Equipment  IRIS -  demo   demo  User 
+ Digital Equipment  IRIS -  manager   manager  Admin 
+ Digital Equipment  IRIS -  PDP11   PDP11  User 
+ Digital Equipment  IRIS -  PDP8   PDP8  User 
+ Digital Equipment  IRIS -  software   software  User 
+ Digital Equipment  PC BIOS - -  komprie  Admin 
+ Digital Equipment  RSX -  (none)   1  1 
+ Digital Equipment  RSX -  BATCH   BATCH  User 
+ Digital Equipment  RSX -  SYSTEM   MANAGER  Admin 
+ Digital Equipment  RSX -  SYSTEM   SYSTEM  Admin 
+ Digital Equipment  RSX -  USER   USER  User 
+ Digital Equipment  Terminal Server - -  access  User 
+ Digital Equipment  Terminal Server - -  system  Admin 
+ Digital Equipment  VMS -  ALLIN1   ALLIN1  - 
+  Digital Equipment  VMS -  ALLIN1MAIL   ALLIN1MAIL  - 
+ Digital Equipment  VMS -  ALLINONE   ALLINONE  - 
+ Digital Equipment  VMS -  BACKUP   BACKUP  - 
+ Digital Equipment  VMS -  DCL   DCL  - 
+ Digital Equipment  VMS -  DECMAIL   DECMAIL  - 
+ Digital Equipment  VMS -  DECNET   DECNET  - 
+ Digital Equipment  VMS -  DECNET   NONPRIV  - 
+ Digital Equipment  VMS -  DEFAULT   USER  - 
+ Digital Equipment  VMS -  DEFAULT   DEFAULT  - 
+ Digital Equipment  VMS -  DEMO   DEMO  - 
+ Digital Equipment  VMS -  FIELD   FIELD  - 
+ Digital Equipment  VMS -  FIELD   SERVICE  - 
+ Digital Equipment  VMS -  FIELD   TEST  - 
+ Digital Equipment  VMS -  FIELD   DIGITAL  - 
+ Digital Equipment  VMS -  GUEST   GUEST  - 
+ Digital Equipment  VMS -  HELP   HELP  - 
+ Digital Equipment  VMS -  HELPDESK   HELPDESK  - 
+ Digital Equipment  VMS -  HOST   HOST  - 
+ Digital Equipment  VMS -  INFO   INFO  - 
+ Digital Equipment  VMS -  INGRES   INGRES  - 
+ Digital Equipment  VMS -  LINK   LINK  - 
+ Digital Equipment  VMS -  MAILER   MAILER  - 
+ Digital Equipment  VMS -  MBMANAGER   MBMANAGER  - 
+ Digital Equipment  VMS -  MBWATCH   MBWATCH  - 
+ Digital Equipment  VMS -  NETCON   NETCON  - 
+ Digital Equipment  VMS -  NETMGR   NETMGR  - 
+ Digital Equipment  VMS -  NETNONPRIV   NETNONPRIV  - 
+ Digital Equipment  VMS -  NETPRIV   NETPRIV  - 
+ Digital Equipment  VMS -  NETSERVER   NETSERVER  - 
+ Digital Equipment  VMS -  NETWORK   NETWORK  - 
+ Digital Equipment  VMS -  NEWINGRES   NEWINGRES  - 
+ Digital Equipment  VMS -  NEWS   NEWS  - 
+ Digital Equipment  VMS -  OPERVAX   OPERVAX  - 
+ Digital Equipment  VMS -  POSTMASTER   POSTMASTER  - 
+ Digital Equipment  VMS -  PRIV   PRIV  - 
+ Digital Equipment  VMS -  REPORT   REPORT  - 
+ Digital Equipment  VMS -  RJE   RJE  - 
+ Digital Equipment  VMS -  STUDENT   STUDENT  - 
+ Digital Equipment  VMS -  SYS   SYS  - 
+ Digital Equipment  VMS -  SYSMAINT   SYSMAINT  - 
+  Digital Equipment  VMS -  SYSMAINT   SERVICE  - 
+ Digital Equipment  VMS -  SYSMAINT   DIGITAL  - 
+ Digital Equipment  VMS -  SYSTEM   SYSTEM  - 
+ Digital Equipment  VMS -  SYSTEM   MANAGER  - 
+ Digital Equipment  VMS -  SYSTEM   OPERATOR  - 
+ Digital Equipment  VMS -  SYSTEM   SYSLIB  - 
+ Digital Equipment  VMS -  SYSTEST   UETP  - 
+ Digital Equipment  VMS -  SYSTEST_CLIG   SYSTEST_CLIG  - 
+ Digital Equipment  VMS -  SYSTEST_CLIG   SYSTEST  - 
+ Digital Equipment  VMS -  TELEDEMO   TELEDEMO  - 
+ Digital Equipment  VMS -  TEST   TEST  - 
+ Digital Equipment  VMS -  UETP   UETP  - 
+ Digital Equipment  VMS -  USER   PASSWORD  - 
+ Digital Equipment  VMS -  USERP   USERP  - 
+ Digital Equipment  VMS -  VAX   VAX  - 
+ Digital Equipment  VMS -  VMS   VMS  - 
+ Dynalink  RTA230 -  userNotUsed   userNotU  Administrator 
+ Dynix Library Systems  Dynix -  circ    User 
+ Dynix Library Systems  Dynix -  LIBRARY   (none)  User 
+ Dynix Library Systems  Dynix -  SETUP   (none)  Admin 
+ Edimax  7205APL -  guest   1234  - 
+ Edimax  AR-6004 -  admin   1234  - 
+ Efficient  Speedstream DSL - -  admin  Admin 
+ Elsa  LANCom Office ISDN Router 800/1000/1100 -  cisco  Admin 
+ Elsa  LANCom Office ISDN Router 800/1000/1100 -  (none)  Admin 
+ Enhydra  Multiserver -  admin   enhydra  Administrator 
+ Enox  PC BIOS - -  xo11nE  Admin 
+ Entrust  Get Access Service Control Agent 4.x  admin   admin  Administrator 
+ Epox  PC BIOS - -  central  Admin 
+ Ericsson  Ericsson Acc -  netman   netman  - 
+ Extreme Networks  Alpine -  admin   (none)  Administrator 
+ Extreme Networks  BlackDiamond -  admin   (none)  Administrator 
+ Extreme Networks  Summit -  admin   (none)  Administrator 
+ Fastwire  Fastwire Bank Transfer -  fastwire   fw  - 
+ Flowpoint  DSL 2000  admin   admin  Admin 
+ Flowpoint  DSL - -  password  Admin 
+ Flowpoint  Flowpoint/2000 ADSL - -  (none)  Admin 
+ Freetech  PC BIOS - -  Posterie  Admin 
+ Galacticomm  Major BBS -  Sysop   Sysop  Admin 
+ Geeklog  Geeklog 1.3.x  username   password  - 
+  glFtpD  glFtpD all  glftpd   glftpd  Admin 
+ GuardOne  BizGuard -  n.a   guardone  Admin 
+ GuardOne  Restrictor - -  guardone  Admin 
+ H2O Project  Medialibrary -  admin   admin  Administrator 
+ Hayes  Century MR200  system   isp  Administrator 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  ADVMAIL   (none)  HPOFFICE 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  ADVMAIL   HP  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   SUPPORT  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   MGR  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   SERVICE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   MANAGER  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   (none)  HPP187 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   LOTUS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   (none)  HPWORD 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  FIELD   HPONLY  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  HELLO   MANAGER.SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  HELLO   MGR.SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  HELLO   FIELD.SUPPORT  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  HELLO   OP.OPERATOR  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MAIL   MAIL  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MAIL   REMOTE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MAIL   TELESUP  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MAIL   HPOFFICE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MAIL   MPE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   TCH  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   SECURITY  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   ITF3000  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   HPOFFICE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   COGNOS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MANAGER   TELESUP  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGE   VESOFT  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   CAROLIAN  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   VESOFT  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   XLSERVER  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   SECURITY  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   TELESUP  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPDESK  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   CCC  - 
+  
+     Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   CNAS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   WORD  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   COGNOS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   ROBELLE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPOFFICE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPONLY  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPP187  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPP189  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   HPP196  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   INTX3  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   ITF3000  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   NETBASE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   REGO  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   RJE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  MGR   CONV  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  OPERATOR   SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  OPERATOR   DISC  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  OPERATOR   SYSTEM  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  OPERATOR   SUPPORT  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  OPERATOR   COGNOS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  PCUSER   SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  RSBCMON   SYS  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  SPOOLMAN   HPOFFICE  - 
+ Hewlett-Packard  HP 2000/3000 MPE/xx -  WP   HPOFFICE  - 
+ Hewlett-Packard  Vectra - -  hewlpack  Admin 
+ Hewlett-Packard  Webmin 0.84  admin   hp.com  Administrator 
+ Horizon DataSys  FoolProof -  (none)   foolproof  Administrator 
+ Hosting Controller  Hosting Controller -  AdvWebadmin   advcomm500349  Admin 
+ IBM  AIX -  guest   (none)  User 
+ IBM  AIX -  guest   guest  User 
+ IBM  Ascend OEM Routers - -  ascend  Admin 
+ IBM  CICS -  SYSA   SYSA  - 
+ IBM  CICS -  PROG   PROG  - 
+ IBM  CICS -  OPER   OPER  - 
+ IBM  CICS -  $SRV   $SRV  - 
+ IBM  CICS -  VCSRV   VCSRV  - 
+ IBM  CICS -  PRODCICS   PRODCICS  - 
+ IBM  CICS -  POST   BASE  - 
+ IBM  CICS -  CICSUSER   CISSUS  - 
+ IBM  CICS -  DBDCCICS   DBDCCIC  - 
+  
+ IBM  CICS -  FORSE   FORSE  - 
+ IBM  Fibre Switch 3534 F08  admin   password  Administrator 
+ IBM  OS/400 -  QSRV   QSRV  - 
+ IBM  OS/400 -  QSRV   11111111  - 
+ IBM  OS/400 -  QSRV   22222222  - 
+ IBM  OS/400 -  user   USERP  - 
+ IBM  OS/400 -  sedacm   secacm  - 
+ IBM  OS/400 -  sysopr   sysopr  - 
+ IBM  OS/400 -  ibm   password  - 
+ IBM  OS/400 -  ibm   2222  - 
+ IBM  OS/400 -  ibm   service  - 
+ IBM  OS/400 -  qpgmr   qpgmr  - 
+ IBM  OS/400 -  qsecofr   qsecofr  - 
+ IBM  OS/400 -  qsecofr   11111111  - 
+ IBM  OS/400 -  qsecofr   22222222  - 
+ IBM  OS/400 -  qserv   qserv  - 
+ IBM  OS/400 -  qsvr   qsvr  - 
+ IBM  OS/400 -  quser   quser  - 
+ IBM  OS/400 -  qsrv   qsrv  - 
+ IBM  OS/400 -  qsrvbas   qsrvbas  - 
+ IBM  OS/400 -  11111111   11111111  - 
+ IBM  OS/400 -  22222222   22222222  - 
+ IBM  OS/400 -  qsvr   ibmcel  - 
+ IBM  OS/400 -  qsysopr   qsysopr  - 
+ IBM  OS/400 -  secofr   secofr  - 
+ IBM  PC BIOS - -  IBM  Admin 
+ IBM  PC BIOS - -  MBIU0  Admin 
+ IBM  PC BIOS - -  sertafu  Admin 
+ IBM  POS CMOS -  ESSEX  - - 
+ IBM  POS CMOS -  IPC  - - 
+ IBM  RACF -  IBMUSER   SYS1  - 
+ IBM  Tivoli -  admin   admin  Administrator 
+ IBM  TotalStorage -  storwatch   specialist  Administrative 
+ IBM  VM/CMS -  MAINT   MAINT  - 
+ IBM  VM/CMS -  OPERATIONS   OPERATIONS  - 
+ IBM  VM/CMS -  OPERATNS   OPERATNS  - 
+ IBM  VM/CMS -  CMSBATCH   CMSBATCH  - 
+ IBM  VM/CMS -  VTAM   VTAM  - 
+ IBM  VM/CMS -  Operator   Operator  - 
+ IBM  VM/CMS -  $ALOC$   (none)  
+IBM  VM/CMS -  ADMIN   (none)  - 
+ IBM  VM/CMS -  AP2SVP   (none)  - 
+ IBM  VM/CMS -  APL2PP   (none)  - 
+ IBM  VM/CMS -  AUTOLOG1   (none)  - 
+ IBM  VM/CMS -  BATCH   (none)  - 
+ IBM  VM/CMS -  BATCH1   (none)  - 
+ IBM  VM/CMS -  BATCH2   (none)  - 
+ IBM  VM/CMS -  CCC   (none)  - 
+ IBM  VM/CMS -  CMSBATCH   (none)  - 
+ IBM  VM/CMS -  CMSUSER   (none)  - 
+ IBM  VM/CMS -  CPNUC   (none)  - 
+ IBM  VM/CMS -  CPRM   (none)  - 
+ IBM  VM/CMS -  CSPUSER   (none)  - 
+ IBM  VM/CMS -  CVIEW   (none)  - 
+ IBM  VM/CMS -  DATAMOVE   (none)  - 
+ IBM  VM/CMS -  DEMO1   (none)  - 
+ IBM  VM/CMS -  DEMO2   (none)  - 
+ IBM  VM/CMS -  DEMO3   (none)  - 
+ IBM  VM/CMS -  DEMO4   (none)  - 
+ IBM  VM/CMS -  DIRECT   (none)  - 
+ IBM  VM/CMS -  DIRMAINT   (none)  - 
+ IBM  VM/CMS -  DISKCNT   (none)  - 
+ IBM  VM/CMS -  EREP   (none)  - 
+ IBM  VM/CMS -  FSFADMIN   (none)  - 
+ IBM  VM/CMS -  FSFTASK1   (none)  - 
+ IBM  VM/CMS -  FSFTASK2   (none)  - 
+ IBM  VM/CMS -  GCS   (none)  - 
+ IBM  VM/CMS -  IDMS   (none)  - 
+ IBM  VM/CMS -  IDMSSE   (none)  - 
+ IBM  VM/CMS -  IIPS   (none)  - 
+ IBM  VM/CMS -  IPFSERV   (none)  - 
+ IBM  VM/CMS -  ISPVM   (none)  - 
+ IBM  VM/CMS -  IVPM1   (none)  - 
+ IBM  VM/CMS -  IVPM2   (none)  - 
+ IBM  VM/CMS -  MAINT   (none)  - 
+ IBM  VM/CMS -  MOESERV   (none)  - 
+ IBM  VM/CMS -  NEVIEW   (none)  - 
+ IBM  VM/CMS -  OLTSEP   (none)  - 
+ IBM  VM/CMS -  OP1   (none)  - 
+ IBM  VM/CMS -  OPERATNS   (none)  - 
+  IBM  VM/CMS -  OPERATOR   (none)  - 
+ IBM  VM/CMS -  PDMREMI   (none)  - 
+ IBM  VM/CMS -  PENG   (none)  - 
+ IBM  VM/CMS -  PROCAL   (none)  - 
+ IBM  VM/CMS -  PRODBM   (none)  - 
+ IBM  VM/CMS -  PROMAIL   (none)  - 
+ IBM  VM/CMS -  PSFMAINT   (none)  - 
+ IBM  VM/CMS -  PVM   (none)  - 
+ IBM  VM/CMS -  RDM470   (none)  - 
+ IBM  VM/CMS -  ROUTER   (none)  - 
+ IBM  VM/CMS -  RSCS   (none)  - 
+ IBM  VM/CMS -  RSCSV2   (none)  - 
+ IBM  VM/CMS -  SAVSYS   (none)  - 
+ IBM  VM/CMS -  SFCMI   (none)  - 
+ IBM  VM/CMS -  SFCNTRL   (none)  - 
+ IBM  VM/CMS -  SMART   (none)  - 
+ IBM  VM/CMS -  SQLDBA   (none)  - 
+ IBM  VM/CMS -  SQLUSER   (none)  - 
+ IBM  VM/CMS -  SYSADMIN   (none)  - 
+ IBM  VM/CMS -  SYSCKP   (none)  - 
+ IBM  VM/CMS -  SYSDUMP1   (none)  - 
+ IBM  VM/CMS -  SYSERR   (none)  - 
+ IBM  VM/CMS -  SYSWRM   (none)  - 
+ IBM  VM/CMS -  TDISK   (none)  - 
+ IBM  VM/CMS -  TEMP   (none)  - 
+ IBM  VM/CMS -  TSAFVM   (none)  - 
+ IBM  VM/CMS -  VASTEST   (none)  - 
+ IBM  VM/CMS -  VM3812   (none)  - 
+ IBM  VM/CMS -  VMARCH   (none)  - 
+ IBM  VM/CMS -  VMASMON   (none)  - 
+ IBM  VM/CMS -  VMASSYS   (none)  - 
+ IBM  VM/CMS -  VMBACKUP   (none)  - 
+ IBM  VM/CMS -  VMBSYSAD   (none)  - 
+ IBM  VM/CMS -  VMMAP   (none)  - 
+ IBM  VM/CMS -  VMTAPE   (none)  - 
+ IBM  VM/CMS -  VMTLIBR   (none)  - 
+ IBM  VM/CMS -  VMUTIL   (none)  - 
+ IBM  VM/CMS -  VSEIPO   (none)  - 
+ IBM  VM/CMS -  VSEMAINT   (none)  - 
+ IBM  VM/CMS -  VSEMAN   (none)  - 
+  IBM  VM/CMS -  VTAM   (none)  - 
+ IBM  VM/CMS -  VTAMUSER   (none)  - 
+ Informix  Database -  informix   informix  - 
+ Intel  LanRover VPN Gateway 6.0 > -  shiva  Admin 
+ Intel  LanRover VPN Gateway < 6.0 -  isolation  Admin 
+ Intel  Shiva -  Guest   (none)  User 
+ Intel  Shiva -  root   (none)  Admin 
+ Intel  Shiva Lanrovers -  root   (none)  Admin 
+ Interbase  Interbase Database Server All  SYSDBA   masterkey  Admin 
+ Intermec  EasyLAN 10i2  (none)   intermec  Administrator 
+ IRC  IRC Daemon - -  FOOBAR  Acess 
+ IronPort  C30 -  admin   ironport  Administrator 
+ Iwill  PC BIOS - -  iwill  Admin 
+ JD Edwards  WorldVision/OneWorld All(?)  JDE   JDE  Admin/SECOFR 
+ JD Edwards  WorldVision/OneWorld All(?)  JDE   JDE  Admin/SECOFR 
+ Jetform  Jetform Design -  Jetform   (none)  Admin 
+ JetWay  PC BIOS - -  spooml  Admin 
+ Johnson Controls  HVAC System -  johnson   control  - 
+ Joss Technology  PC BIOS - -  57gbzb  Admin 
+ Joss Technology  PC BIOS - -  technolgi  Admin 
+ Justin Hagstrom  AutoIndex 1.3.2  admin   admin  Administrator 
+ Justin Hagstrom  AutoIndex 1.3.2  test   test  - 
+ Kethinov  Kboard Forum 0.3.x  root   password  Administrator 
+ Lantronics  Lantronics Terminal Server - -  access  Admin 
+ Lantronics  Lantronics Terminal Server - -  system  Admin 
+ Leading Edge  PC BIOS - -  MASTER  Admin 
+ Linksys  DSL - -  admin  Admin 
+ Linksys  WAP Router 4 Port, 2.4GHz  (blank)   admin  Administrator 
+ Linux  Slackware -  gonzo   (none)  User 
+ Linux  Slackware -  satan   (none)  User 
+ Linux  Slackware -  snake   (none)  User 
+ Linux  UCLinux for UCSIMM -  root   uClinux  Admin 
+ Livingston  IRX Router -  !root   (none)  - 
+ Livingston  Livingston Portmaster 3 -  !root   (none)  - 
+ Livingston  Officerouter -  !root   (none)  - 
+ Lucent  System 75 -  pw   pwpw  - 
+ Lucent  System 75 -  sysadm   sysadmpw  - 
+ Lucent  System 75 -  sysadm   admpw  - 
+ Lucent  System 75 -  sysadm   syspw  - 
+ Lucent  System 75 -  bciim   bciimpw  - 
+  Lucent  System 75 -  bcim   bcimpw  - 
+ Lucent  System 75 -  bcms   bcmspw  - 
+ Lucent  System 75 -  bcnas   bcnaspw  - 
+ Lucent  System 75 -  blue   bluepw  - 
+ Lucent  System 75 -  browse   browsepw  - 
+ Lucent  System 75 -  browse   looker  - 
+ Lucent  System 75 -  craft   craft  - 
+ Lucent  System 75 -  craft   craftpw  - 
+ Lucent  System 75 -  cust   custpw  - 
+ Lucent  System 75 -  enquiry   enquirypw  - 
+ Lucent  System 75 -  field   support  - 
+ Lucent  System 75 -  inads   indspw  - 
+ Lucent  System 75 -  inads   inads  - 
+ Lucent  System 75 -  init   initpw  - 
+ Lucent  System 75 -  locate   locatepw  - 
+ Lucent  System 75 -  maint   maintpw  - 
+ Lucent  System 75 -  maint   rwmaint  - 
+ Lucent  System 75 -  nms   nmspw  - 
+ Lucent  System 75 -  rcust   rcustpw  - 
+ Lucent  System 75 -  support   supportpw  - 
+ Lucent  System 75 -  tech   field  - 
+ M Technology  PC BIOS - -  mMmM  Admin 
+ MachSpeed  PC BIOS - -  sp99dd  Admin 
+ Magic-Pro  PC BIOS - -  prost  Admin 
+ Mambo  Site Server 4.x  admin   admin  Administrator 
+ Mantis  Mantis -  administrator   root  Administrator 
+ Megastar  PC BIOS - -  star  Admin 
+ Mentec  Micro/RSX -  MICRO   RSX  Admin 
+ Mercury Interactive  Topaz Prism -  admin   admin  admin 
+ Michiel  PHPlist 2.6.4  admin   phplist  Administrator 
+ Micron  PC BIOS - -  sldkj754  Admin 
+ Micron  PC BIOS - -  xyzall  Admin 
+ Micronet  Wireless Broadband Router SP916BM  admin   admin  Administrator 
+ Micronics  PC BIOS - -  dn_04rjc  Admin 
+ Microplex  Print Server -  root   root  Admin 
+ Microsoft  SiteServer 3.x  LDAP_Anonymous   LdapPassword_1  - 
+ Microsoft  Windows NT -  (NULL)   (none)  User 
+ Microsoft  Windows NT -  Administrator   Administrator  Admin 
+ Microsoft  Windows NT -  Administrator   (none)  Admin 
+ Microsoft  Windows NT -  Guest   Guest  User 
+  Microsoft  Windows NT -  Guest   (none)  User 
+ Microsoft  Windows NT -  IS_$hostname   (same)  User 
+ Microsoft  Windows NT -  User   User  User 
+ Mike Peters  BasiliX 1.1.1  bsxuser   bsxpass  Administrator 
+ Mintel  Mintel PBX - -  SYSTEM  Admin 
+ mklencke  Forumtalk 1.0rc2  root   blablabla  Administrator 
+ Motorola  Cablerouter -  cablecom   router  Admin 
+ Motorola  Various -  service   smile  - 
+ Motorola  Various -  setup   (none)  - 
+ MP3Mystic  MP3Mystic -  admin   mp3mystic  Administrator 
+ Muze  Ariadne 2.2.1  admin   muze  Administrator 
+ MySQL  MySQL -  root   (none)  Admin 
+ NCR  NCR UNIX -  ncrm   ncrm  Admin 
+ Netgear  802.11b Wireless Cable/DSL router MR814  admin   password  Administrative 
+ Netgear  Cable/DSL Router RT-314  admin   1234  Administration 
+ Netgear  DG834G -  (none)   zebra  Administrator 
+ Netgear  Router DG814  admin   password  Administrative 
+ NetGenesis  NetAnalysis Web Reporting -  naadmin   naadmin  Admin 
+ Netopia  Netopia 7100 -  (none)   (none)  Admin 
+ Netopia  Netopia 9500 -  netopia   netopia  Admin 
+ Netscape  Netscape Enterprise Server -  admin   admin  Administrator 
+ Netscreen  IDP 2.0p1  admin   netscreen  Administrator 
+ Netscreen  Netscreen -  netscreen   netscreen  Admin 
+ NetworkICE  ICECap Manager 2.0.22 <  iceman   (none)  Admin 
+ NeXT  NeXTStep -  me   (none)  User 
+ NeXT  NeXTStep -  root   NeXT  Admin 
+ NeXT  NeXTStep -  signa   signa  User 
+ Nimble  PC BIOS - -  xdfk9874t3  Admin 
+ Nortel  Accelar (Passport) 1000 series routing switches -  ro   ro  Read Only 
+ Nortel  Accelar (Passport) 1000 series routing switches -  rw   rw  Read Write 
+ Nortel  Accelar (Passport) 1000 series routing switches -  rwa   rwa  Read Write All 
+ Nortel  Accelar (Passport) 1000 series routing switches -  l2   l2  Layer 2 Read Write 
+ Nortel  Accelar (Passport) 1000 series routing switches -  l3   l3  Layer 3 (and layer 2) Read Write 
+ Nortel  BayStack 310/303  (none)   secure  Administrator 
+ Nortel  BayStack 310/303  (none)   (blank)  Administrator 
+ Nortel  BCM 3.5 - 3-7  administrator   PlsChgMe!  Administrator 
+ Nortel  BCM 3.5 - 3-7  supervisor   visor  Administrator 
+ Nortel  Contivity Switch -  admin   setup  admin 
+ Nortel  Extranet Switches -  admin   setup  Admin 
+ Nortel  Meridian Link/CCR/Max -  disttech   disttech  - 
+  
+Nortel  Meridian Link/CCR/Max -  ccrusr   ccrusr  - 
+ Nortel  Meridian Link/CCR/Max -  service   smile  - 
+ Nortel  Meridian Link/CCR/Max -  mlusr   mlusr  - 
+ Nortel  Meridian Link/CCR/Max -  maint   maint  - 
+ Nortel  Meridian Link/CCR/Max -  trmcnfg   trmcnfg  - 
+ Nortel  Meridian Link/CCR/Max -  disttech   4tas  - 
+ Nortel  Meridian Link/CCR/Max -  disttech   etas  - 
+ Nortel  Meridian PBX -  login   0000  - 
+ Nortel  Meridian PBX -  spcl   0000  - 
+ Nortel  Meridian PBX -  login   0  - 
+ Nortel  Meridian PBX -  spcl   0  - 
+ Nortel  Remote Office 9150 -  admin   root  Admin 
+ Nortel  Symposium -  sysadmin   nortel  Administrator 
+ Novell  Groupwise 5.5 Enhancement Pack -  servlet   manager  - 
+ Novell  Groupwise 6.0 -  servlet   manager  - 
+ Novell  iManager 2.0.1  admin   novell  Administrator 
+ Novell  NDS iMonitor -  sadmin   (none)  Administrator 
+ Novell  Netware -  ADMIN   ADMIN  - 
+ Novell  Netware -  ADMIN   (none)  - 
+ Novell  Netware -  ARCHIVIST   (none)  - 
+ Novell  Netware -  ARCHIVIST   ARCHIVIST  - 
+ Novell  Netware -  BACKUP   (none)  - 
+ Novell  Netware -  BACKUP   BACKUP  - 
+ Novell  Netware -  CHEY_ARCHSVR   CHEY_ARCHSVR  - 
+ Novell  Netware -  CHEY_ARCHSVR   (none)  - 
+ Novell  Netware -  FAX   FAX  - 
+ Novell  Netware -  FAX   (none)  - 
+ Novell  Netware -  FAXUSER   FAXUSER  - 
+ Novell  Netware -  FAXUSER   (none)  - 
+ Novell  Netware -  FAXWORKS   (none)  - 
+ Novell  Netware -  FAXWORKS   FAXWORKS  - 
+ Novell  Netware -  GATEWAY   GATEWAY  - 
+ Novell  Netware -  GATEWAY   (none)  - 
+ Novell  Netware -  GUEST   TSEUG  - 
+ Novell  Netware -  GUEST   GUESTGUEST  - 
+ Novell  Netware -  GUEST   GUESTGUE  - 
+ Novell  Netware -  GUEST   GUEST  - 
+ Novell  Netware -  GUEST   (none)  - 
+ Novell  Netware -  HPLASER   (none)  - 
+ Novell  Netware -  HPLASER   HPLASER  - 
+  Novell  Netware -  LASER   (none)  - 
+ Novell  Netware -  LASER   LASER  - 
+ Novell  Netware -  LASERWRITER   LASERWRITER  - 
+ Novell  Netware -  LASERWRITER   (none)  - 
+ Novell  Netware -  MAIL   (none)  - 
+ Novell  Netware -  MAIL   MAIL  - 
+ Novell  Netware -  POST   (none)  - 
+ Novell  Netware -  POST   POST  - 
+ Novell  Netware -  PRINT   (none)  - 
+ Novell  Netware -  PRINT   PRINT  - 
+ Novell  Netware -  PRINTER   (none)  - 
+ Novell  Netware -  PRINTER   PRINTER  - 
+ Novell  Netware -  ROOT   (none)  - 
+ Novell  Netware -  ROOT   ROOT  - 
+ Novell  Netware -  ROUTER   (none)  - 
+ Novell  Netware -  SABRE   (none)  - 
+ Novell  Netware -  SUPERVISOR   NETFRAME  - 
+ Novell  Netware -  SUPERVISOR   NFI  - 
+ Novell  Netware -  SUPERVISOR   NF  - 
+ Novell  Netware -  SUPERVISOR   HARRIS  - 
+ Novell  Netware -  SUPERVISOR   SUPERVISOR  - 
+ Novell  Netware -  SUPERVISOR   (none)  - 
+ Novell  Netware -  SUPERVISOR   SYSTEM  - 
+ Novell  Netware -  TEST   TEST  - 
+ Novell  Netware -  TEST   (none)  - 
+ Novell  Netware -  USER_TEMPLATE   (none)  - 
+ Novell  Netware -  USER_TEMPLATE   USER_TEMPLATE  - 
+ Novell  Netware -  WANGTEK   (none)  - 
+ Novell  Netware -  WANGTEK   WANGTEK  - 
+ Novell  Netware -  WINDOWS_PASSTHRU   WINDOWS_PASSTHRU  - 
+ Novell  Netware -  WINDOWS_PASSTHRU   (none)  - 
+ Novell  Netware -  WINSABRE   SABRE  - 
+ Novell  Netware -  WINSABRE   WINSABRE  - 
+ Nurit  PC BIOS -  $system   (none)  Admin 
+ OpenMarket  Content Server -  Coco   hello  - 
+ OpenMarket  Content Server -  Bobo   hello  - 
+ OpenMarket  Content Server -  Flo   hello  - 
+ OpenMarket  Content Server -  Joe   hello  - 
+ OpenMarket  Content Server -  Moe   hello  - 
+ OpenMarket  Content Server -  admin   demo  Administrator 
+  OpenMarket  Content Server -  user_analyst   demo  - 
+ OpenMarket  Content Server -  user_approver   demo  - 
+ OpenMarket  Content Server -  user_author   demo  - 
+ OpenMarket  Content Server -  user_checker   demo  - 
+ OpenMarket  Content Server -  user_designer   demo  - 
+ OpenMarket  Content Server -  user_editor   demo  - 
+ OpenMarket  Content Server -  user_expert   demo  - 
+ OpenMarket  Content Server -  user_marketer   demo  - 
+ OpenMarket  Content Server -  user_pricer   demo  - 
+ OpenMarket  Content Server -  user_publisher   demo  - 
+ Oracle  Internet Directory Service -  cn=orcladmin   welcome  - 
+ Oracle  Oracle -  LBACSYS   LBACSYS  - 
+ Oracle  Oracle -  OAS_PUBLIC   OAS_PUBLIC  - 
+ Oracle  Oracle -  MXAGENT   MXAGENT  - 
+ Oracle  Oracle -  MTS_USER   MTS_PASSWORD  - 
+ Oracle  Oracle -  MASTER   PASSWORD  - 
+ Oracle  Oracle -  LIBRARIAN   SHELVES  - 
+ Oracle  Oracle -  IMEDIA   IMEDIA  - 
+ Oracle  Oracle -  FROSTY   SNOWMAN  - 
+ Oracle  Oracle -  ESTOREUSER   ESTORE  - 
+ Oracle  Oracle -  EJSADMIN   EJSADMIN  - 
+ Oracle  Oracle -  DES   DES  - 
+ Oracle  Oracle -  DBI   MUMBLEFRATZ  - 
+ Oracle  Oracle -  CQSCHEMAUSER   PASSWORD  - 
+ Oracle  Oracle -  COMPIERE   COMPIERE  - 
+ Oracle  Oracle -  ADMIN   WELCOME  Administrator 
+ Oracle  Oracle -  CISINFO   CISINFO  - 
+ Oracle  Oracle -  CIS   CIS  - 
+ Oracle  Oracle -  CIDS   CIDS  - 
+ Oracle  Oracle -  BC4J   BC4J  - 
+ Oracle  Oracle -  AQ   AQ  - 
+ Oracle  Oracle -  CENTRA   CENTRA  - 
+ Oracle  Oracle -  ADMIN   JETSPEED  - 
+ Oracle  Oracle -  ADAMS   WOOD  - 
+ Oracle  Oracle -  ADLDEMO   ADLDEMO  - 
+ Oracle  Oracle -  APPLSYS   FND  - 
+ Oracle  Oracle -  APPLSYSPUB   FNDPUB  - 
+ Oracle  Oracle -  APPS   APPS  - 
+ Oracle  Oracle -  AQDEMO   AQDEMO  - 
+ Oracle  Oracle -  AQJAVA   AQJAVA  - 
+  Oracle  Oracle -  AQUSER   AQUSER  - 
+ Oracle  Oracle -  AUDIOUSER   AUDIOUSER  - 
+ Oracle  Oracle -  AURORA$JIS$UTILITY$   (none)  - 
+ Oracle  Oracle -  AURORA$ORB$UNAUTHENTICATED   INVALID  - 
+ Oracle  Oracle -  BLAKE   PAPER  - 
+ Oracle  Oracle -  CATALOG   CATALOG  - 
+ Oracle  Oracle -  CDEMO82   CDEMO82  - 
+ Oracle  Oracle -  CDEMORID   CDEMORID  - 
+ Oracle  Oracle -  CDEMOUCB   CDEMOUCB  - 
+ Oracle  Oracle -  CLARK   CLOTH  - 
+ Oracle  Oracle -  COMPANY   COMPANY  - 
+ Oracle  Oracle -  CSMIG   CSMIG  - 
+ Oracle  Oracle -  CTXDEMO   CTXDEMO  - 
+ Oracle  Oracle -  CTXSYS   CTXSYS  - 
+ Oracle  Oracle -  DBSNMP   DBSNMP  - 
+ Oracle  Oracle -  MDSYS   MDSYS  - 
+ Oracle  Oracle -  DEMO9   DEMO9  - 
+ Oracle  Oracle -  EMP   EMP  - 
+ Oracle  Oracle -  EVENT   EVENT  - 
+ Oracle  Oracle -  FINANCE   FINANCE  - 
+ Oracle  Oracle -  FND   FND  - 
+ Oracle  Oracle -  GPLD   GPLD  - 
+ Oracle  Oracle -  GPFD   GPFD  - 
+ Oracle  Oracle -  HLW   HLW  - 
+ Oracle  Oracle -  HR   HR  - 
+ Oracle  Oracle -  IMAGEUSER   IMAGEUSER  - 
+ Oracle  Oracle -  JMUSER   JMUSER  - 
+ Oracle  Oracle -  JONES   STEEL  - 
+ Oracle  Oracle -  MFG   MFG  - 
+ Oracle  Oracle -  MIGRATE   MIGRATE  - 
+ Oracle  Oracle -  MILLER   MILLER  - 
+ Oracle  Oracle -  MMO2   MMO2  - 
+ Oracle  Oracle -  MOREAU   MOREAU  - 
+ Oracle  Oracle -  MODTEST   YES  - 
+ Oracle  Oracle -  MTSSYS   MTSSYS  - 
+ Oracle  Oracle -  NAMES   NAMES  - 
+ Oracle  Oracle -  OCITEST   OCITEST  - 
+ Oracle  Oracle -  ODS   ODS  - 
+ Oracle  Oracle -  OE   OE  - 
+ Oracle  Oracle -  OLAPDBA   OLAPDBA  - 
+   Oracle  Oracle -  PM   PM  - 
+ Oracle  Oracle -  OLAPSVR   INSTANCE  - 
+ Oracle  Oracle -  OLAPSYS   MANAGER  - 
+ Oracle  Oracle -  ORACACHE   (random password)  - 
+ Oracle  Oracle -  ORDPLUGINS   ORDPLUGINS  - 
+ Oracle  Oracle -  ORDSYS   ORDSYS  - 
+ Oracle  Oracle -  OSE$HTTP$ADMIN   (random password)  - 
+ Oracle  Oracle -  OUTLN   OUTLN  - 
+ Oracle  Oracle -  PERFSTAT   PERFSTAT  - 
+ Oracle  Oracle -  PO   PO  - 
+ Oracle  Oracle -  PO7   PO7  - 
+ Oracle  Oracle -  PORTAL30   PORTAL31  - 
+ Oracle  Oracle -  PORTAL30_DEMO   PORTAL30_DEMO  - 
+ Oracle  Oracle -  PORTAL30_PUBLIC   PORTAL30_PUBLIC  - 
+ Oracle  Oracle -  PORTAL30_SSO   PORTAL30_SSO  - 
+ Oracle  Oracle -  PORTAL30_SSO_PS   PORTAL30_SSO_PS  - 
+ Oracle  Oracle -  PORTAL30_SSO_PUBLIC   PORTAL30_SSO_PUBLIC  - 
+ Oracle  Oracle -  POWERCARTUSER   POWERCARTUSER  - 
+ Oracle  Oracle -  PRIMARY   PRIMARY  - 
+ Oracle  Oracle -  PUBSUB   PUBSUB  - 
+ Oracle  Oracle -  QS   QS  - 
+ Oracle  Oracle -  QS_ADM   QS_ADM  - 
+ Oracle  Oracle -  QS_CB   QS_CB  - 
+ Oracle  Oracle -  QS_CBADM   QS_CBADM  - 
+ Oracle  Oracle -  QS_CS   QS_CS  - 
+ Oracle  Oracle -  QS_ES   QS_ES  - 
+ Oracle  Oracle -  QS_OS   QS_OS  - 
+ Oracle  Oracle -  QS_WS   QS_WS  - 
+ Oracle  Oracle -  RE   RE  - 
+ Oracle  Oracle -  REPADMIN   REPADMIN  - 
+ Oracle  Oracle -  RMAIL   RMAIL  - 
+ Oracle  Oracle -  RMAN   RMAN  - 
+ Oracle  Oracle -  SAMPLE   SAMPLE  - 
+ Oracle  Oracle -  SECDEMO   SECDEMO  - 
+ Oracle  Oracle -  SH   SH  - 
+ Oracle  Oracle -  SYSADM   SYSADM  - 
+ Oracle  Oracle -  TRACESVR   TRACE  - 
+ Oracle  Oracle -  TSDEV   TSDEV  - 
+ Oracle  Oracle -  TSUSER   TSUSER  - 
+ Oracle  Oracle -  USER0   USER0  - 
+  Oracle  Oracle -  USER1   USER1  - 
+ Oracle  Oracle -  USER2   USER2  - 
+ Oracle  Oracle -  USER3   USER3  - 
+ Oracle  Oracle -  USER4   USER4  - 
+ Oracle  Oracle -  USER5   USER5  - 
+ Oracle  Oracle -  USER6   USER6  - 
+ Oracle  Oracle -  USER7   USER7  - 
+ Oracle  Oracle -  USER8   USER8  - 
+ Oracle  Oracle -  USER9   USER9  - 
+ Oracle  Oracle -  UTLBSTATU   UTLESTAT  - 
+ Oracle  Oracle -  VIDEOUSER   VIDEO USER  - 
+ Oracle  Oracle -  VIF_DEVELOPER   VIF_DEV_PWD  - 
+ Oracle  Oracle -  VIRUSER   VIRUSER  - 
+ Oracle  Oracle -  VRR1   VRR1  - 
+ Oracle  Oracle -  WKSYS   WKSYS  - 
+ Oracle  Oracle -  CTXSYS   (none)  - 
+ Oracle  Oracle -  DEMO8   DEMO8  - 
+ Oracle  Oracle -  CDEMOCOR   CDEMOCOR  - 
+ Oracle  Oracle -  ODSCOMMON   ODSCOMMON  - 
+ Oracle  Oracle -  OEMADM   OEMADM  - 
+ Oracle  Oracle -  OMWB_EMULATION   ORACLE  - 
+ Oracle  Oracle -  OPENSPIRIT   OPENSPIRIT  - 
+ Oracle  Oracle -  ORAREGSYS   ORAREGSYS  - 
+ Oracle  Oracle -  OSP22   OSP22  - 
+ Oracle  Oracle -  OWA   OWA  - 
+ Oracle  Oracle -  OWA_PUBLIC   OWA_PUBLIC  - 
+ Oracle  Oracle -  PANAMA   PANAMA  - 
+ Oracle  Oracle -  PATROL   PATROL  - 
+ Oracle  Oracle -  PLSQL   SUPERSECRET  - 
+ Oracle  Oracle -  REP_MANAGER   DEMO  - 
+ Oracle  Oracle -  REP_OWNER   DEMO  - 
+ Oracle  Oracle -  REP_OWNER   REP_OWNER  - 
+ Oracle  Oracle -  SAP   SAPR3  - 
+ Oracle  Oracle -  SDOS_ICSAP   SDOS_ICSAP  - 
+ Oracle  Oracle -  SITEMINDER   SITEMINDER  - 
+ Oracle  Oracle -  SLIDE   SLIDEPW  - 
+ Oracle  Oracle -  STARTER   STARTER  - 
+ Oracle  Oracle -  STRAT_USER   STRAT_PASSWD  - 
+ Oracle  Oracle -  SWPRO   SWPRO  - 
+ Oracle  Oracle -  SWUSER   SWUSER  - 
+  
+    
+ Oracle  Oracle -  SYMPA   SYMPA  - 
+ Oracle  Oracle -  SYSMAN   OEM_TEMP  - 
+ Oracle  Oracle -  TAHITI   TAHITI  - 
+ Oracle  Oracle -  TDOS_ICSAP   TDOS_ICSAP  - 
+ Oracle  Oracle -  TESTPILOT   TESTPILOT  - 
+ Oracle  Oracle -  TRAVEL   TRAVEL  - 
+ Oracle  Oracle -  TURBINE   TURBINE  - 
+ Oracle  Oracle -  ULTIMATE   ULTIMATE  - 
+ Oracle  Oracle -  USER   USER  - 
+ Oracle  Oracle -  WEBCAL01   WEBCAL01  - 
+ Oracle  Oracle -  WEBDB   WEBDB  - 
+ Oracle  Oracle -  WEBREAD   WEBREAD  - 
+ Oracle  Oracle -  WWW   WWW  - 
+ Oracle  Oracle -  WWWUSER   WWWUSER  - 
+ Oracle  Oracle -  XPRT   XPRT  - 
+ Oracle  Oracle -  ADMINISTRATOR   ADMINISTRATOR  Administrator 
+ Oracle  Oracle -  ADMINISTRATOR   ADMIN  Administrator 
+ Oracle  Oracle -  ANDY   SWORDFISH  - 
+ Oracle  Oracle -  AP   AP  - 
+ Oracle  Oracle -  APPUSER   APPUSER  - 
+ Oracle  Oracle -  BRIO_ADMIN   BRIO_ADMIN  - 
+ Oracle  Oracle -  DEV2000_DEMOS   DEV2000_DEMOS  - 
+ Oracle  Oracle -  DISCOVERER_ADMIN   DISCOVERER_ADMIN  - 
+ Oracle  Oracle -  DSGATEWAY   DSGATEWAY  - 
+ Oracle  Oracle -  DSSYS   DSSYS  - 
+ Oracle  Oracle -  GL   GL  - 
+ Oracle  Oracle -  HCPARK   HCPARK  - 
+ Oracle  Oracle -  JWARD   AIROPLANE  - 
+ Oracle  Oracle -  L2LDEMO   L2LDEMO  - 
+ Oracle  Oracle -  MDDEMO   MDDEMO  - 
+ Oracle  Oracle -  MDDEMO_CLERK   CLERK  - 
+ Oracle  Oracle -  MDDEMO_MGR   MGR  - 
+ Oracle  Oracle -  MGWUSER   MGWUSER  - 
+ Oracle  Oracle -  ODM   ODM  - 
+ Oracle  Oracle -  ODM_MTR   MTRPW  - 
+ Oracle  Oracle -  OEMREP   OEMREP  - 
+ Oracle  Oracle -  OO   OO  - 
+ Oracle  Oracle -  ORASSO   ORASSO  - 
+ Oracle  Oracle -  OWNER   OWNER  - 
+ Oracle  Oracle -  PLEX   PLEX  - 
+   Oracle  Oracle -  PORTAL30   PORTAL30  - 
+ Oracle  Oracle -  PUBSUB1   PUBSUB1  - 
+ Oracle  Oracle -  QDBA   QDBA  - 
+ Oracle  Oracle -  REPORTS_USER   OEM_TEMP  - 
+ Oracle  Oracle -  SERVICECONSUMER1   SERVICECONSUMER1  - 
+ Oracle  Oracle -  SYS   D_SYSPW  - 
+ Oracle  Oracle -  SYSTEM   D_SYSTPW  - 
+ Oracle  Oracle -  DIP   DIP  - 
+ Oracle  Oracle -  EXFSYS   EXFSYS  - 
+ Oracle  Oracle -  internal   oracle  - 
+ Oracle  Oracle -  scott   tiger or tigger  - 
+ Oracle  Oracle -  system   manager  - 
+ Oracle  Oracle -  sys   change_on_install  - 
+ Oracle  Oracle -  demo   demo  - 
+ Oracle  Oracle -  oracle   oracle  - 
+ Oracle  Oracle -  sys   sys  - 
+ Oracle  Personal Oracle 8  PO8   PO8  - 
+ Osicom  JETXPrint 1000E/B  sysadm   sysadm  Admin 
+ Osicom  JETXPrint 1000E/N  sysadm   sysadm  Admin 
+ Osicom  JETXPrint 1000T/N  sysadm   sysadm  Admin 
+ Osicom  JETXPrint 500 E/B  sysadm   sysadm  Admin 
+ Osicom  NETCommuter Remote Access Server -  sysadm   sysadm  Admin 
+ Osicom  NETCommuter Remote Access Server -  Manager   Manager  Admin 
+ Osicom  NETCommuter Remote Access Server -  guest   guest  User 
+ Osicom  NETCommuter Remote Access Server -  echo   echo  User 
+ Osicom  NETCommuter Remote Access Server -  debug   d.e.b.u.g  User 
+ Osicom  NETPrint 1000 T/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000 T/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000E/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000E/D  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000E/D  Manager   Manager  Admin 
+ Osicom  NETPrint 1000E/D  guest   guest  User 
+ Osicom  NETPrint 1000E/D  echo   echo  User 
+ Osicom  NETPrint 1000E/D  debug   d.e.b.u.g  User 
+ Osicom  NETPrint 1000E/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000E/NDS  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1000E/NDS  Manager   Manager  Admin 
+ Osicom  NETPrint 1000E/NDS  guest   guest  User 
+ Osicom  NETPrint 1000E/NDS  echo   echo  User 
+ Osicom  NETPrint 1000E/NDS  debug   d.e.b.u.g  User Osicom  NETPrint 1500 E/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1500 E/B  Manager   Manager  Admin 
+ Osicom  NETPrint 1500 E/B  guest   guest  User 
+ Osicom  NETPrint 1500 E/B  echo   echo  User 
+ Osicom  NETPrint 1500 E/B  debug   d.e.b.u.g  User 
+ Osicom  NETPrint 1500E/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 1500E/N  Manager   Manager  Admin 
+ Osicom  NETPrint 1500E/N  guest   guest  User 
+ Osicom  NETPrint 1500E/N  echo   echo  User 
+ Osicom  NETPrint 1500E/N  debug   d.e.b.u.g  User 
+ Osicom  NETPrint 1500T/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 2000 T/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 2000 T/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 2000E/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 2000E/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 2000E/N  Manager   Manager  Admin 
+ Osicom  NETPrint 2000E/N  guest   guest  User 
+ Osicom  NETPrint 2000E/N  echo   echo  User 
+ Osicom  NETPrint 2000E/N  debug   d.e.b.u.g  User 
+ Osicom  NETPrint 500 E/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 500 E/N  sysadm   sysadm  Admin 
+ Osicom  NETPrint 500 T/B  sysadm   sysadm  Admin 
+ Osicom  NETPrint 500 T/N  sysadm   sysadm  Admin 
+ Osicom  Osicom Plus T1/PLUS 56k -  write   private  - 
+ Packard Bell  PC BIOS - -  bell9  Admin 
+ Patton  RAS 2  superuser   superuser  - 
+ Patton  RAS 2  monitor   monitor  - 
+ PBX  PBX (Generic) -  tech   nician  - 
+ PHPReactor  PHPReactor 1.2.7  core   phpreactor  - 
+ phpTest  phpTest 0.5.6  admin   1234  Admin 
+ phpTest  phpTest 0.5.6  guest   guest  - 
+ Pollsafe  Pollsafe -  SMDR   SECONDARY  - 
+ Polycom  ViewStation 4000 v.35  (blank)   (blank)  - 
+ Polycom  ViewStation 4000 v.35  (none)   (blank)  - 
+ Polycom  ViewStation 4000 v.35  (none)   x6zynd56  - 
+ PostgreSQL  PostgreSQL -  postgres    Administrator 
+ Powerchute  UPS -  pwrchute   pwrchute  - 
+ Prime  PrimeOS -  dos   dos  User 
+ Prime  PrimeOS -  fam   fam  User 
+ Prime  PrimeOS -  maint   maint  User 
+  
+     Prime  PrimeOS -  prime   primeos  User 
+ Prime  PrimeOS -  primeos   prime  User 
+ Prime  PrimeOS -  primeos   primeos  User 
+ Prime  PrimeOS -  guest   guest  User 
+ Prime  PrimeOS -  guest1   guest  User 
+ Prime  PrimeOS -  guest1   guest1  User 
+ Prime  PrimeOS -  mail   mail  User 
+ Prime  PrimeOS -  mfd   mfd  User 
+ Prime  PrimeOS -  netlink   netlink  User 
+ Prime  PrimeOS -  prime   prime  User 
+ Prime  PrimeOS -  primenet   primenet  User 
+ Prime  PrimeOS -  primenet   primeos  User 
+ Prime  PrimeOS -  primos_cs   primos  User 
+ Prime  PrimeOS -  primos_cs   prime  User 
+ Prime  PrimeOS -  system   prime  Admin 
+ Prime  PrimeOS -  system   system  Admin 
+ Prime  PrimeOS -  tele   tele  User 
+ Prime  PrimeOS -  test   test  User 
+ PrimeBase  SQL Database Server 4.2  Administrator    (none) 
+ Proxim  AP-2000 -  (blank)   public  Administrator 
+ QDI  PC BIOS - -  QDI  Admin 
+ QDI  SpeedEasy BIOS - -  lesarotl  Admin 
+ Quantex  PC BIOS - -  teX1  Admin 
+ Quantex  PC BIOS - -  xljlbj  Admin 
+ Raidzone  raid arrays - -  raidzone  - 
+ Rainbow  IKEY 1000  (none)   rainbow  Administrator 
+ Rainbow  IKEY 2000    PASSWORD  - 
+ Ramp Networks  WebRamp -  wradmin   trancell  - 
+ RapidStream  RapidStream Appliances -  rsadmin   (NULL)  Admin 
+ Raritan  KVM Switches -  admin   raritan  Admin 
+ RayTalk  RB-300 -  root   root  Administrator 
+ RedHat  Redhat 6.2 -  piranha   q  User 
+ RedHat  Redhat 6.2 -  piranha   piranha  User 
+ Remedy  Remedy Multi  Demo   (none)  - 
+ Remedy  Remedy -  ARAdmin   AR#Admin#  Admin 
+ Research  PC BIOS - -  Col2ogro2  Admin 
+ Resumix  Resumix -  root   resumix  - 
+ Rizen  WebGUI -  Admin   123qwe  Administrator 
+ RM  RM Connect -  admin   rmnetlm  - 
+ RM  RM Connect -  admin2   changeme  - RM  RM Connect -  adminstrator   changeme  - 
+ RM  RM Connect -  deskalt   password  - 
+ RM  RM Connect -  deskman   changeme  - 
+ RM  RM Connect -  desknorm   password  - 
+ RM  RM Connect -  deskres   password  - 
+ RM  RM Connect -  guest   (none)  - 
+ RM  RM Connect -  replicator   replicator  - 
+ RM  RM Connect -  RMUser1   password  - 
+ RM  RM Connect -  setup   changeme  - 
+ RM  RM Connect -  teacher   password  - 
+ RM  RM Connect -  temp1   password  - 
+ RM  RM Connect -  topicalt   password  - 
+ RM  RM Connect -  topicnorm   password  - 
+ RM  RM Connect -  topicres   password  - 
+ RM  Server BIOS - -  RM  - 
+ Sagem  Sagem F@st3202 (livebox) 3202_220142  admin   admin  Administrator 
+ Sambar Technologies  Sambar Server -  admin   (none)  Administration 
+ Sambar Technologies  Sambar Server -  billy-bob   (none)  Administration 
+ Sambar Technologies  Sambar Server -  guest   guest  User 
+ Sambar Technologies  Sambar Server -  anonymous   (none)  Other 
+ Sambar Technologies  Sambar Server -  ftp   (none)  Other 
+ Samuel Abels  Ammerum 0.6-1  user   password  - 
+ SAP  Business Connector 4.7  Administrator   manage  Administrator 
+ SAP  Business Connector 4.7  Developer   isdev  - 
+ SAP  Business Connector 4.7  Replicator   iscopy  - 
+ SAP  ITS -  itsadmin   init  - 
+ SAP  SAP 000  SAPCPIC   ADMIN  - 
+ SAP  SAP 000, 001  DDIC   19920706  - 
+ SAP  SAP 000, 001, 066  SAP*   06071992  - 
+ SAP  SAP 066  EARLYWATCH   SUPPORT  - 
+ SAP  SAP R/3  SAP*   06071992  - 
+ SAP  SAP R/3  SAPCPIC   ADMIN  - 
+ SAP  SAP R/3  DDIC   19920706  - 
+ SAP  SAP R/3  EARLYWATCH   SUPPORT  - 
+ SAP  SAP R/3  TMSADM    - 
+ SAP  SAP Local Database -  SAPR3   SAP  - 
+ Schneider Electric  PowerLogic Ethernet Communications Card -  (none)   admin  Administrator 
+ Semaphore  PICK O/S -  DESQUETOP  - - 
+ Semaphore  PICK O/S -  DS  - - 
+ Semaphore  PICK O/S -  DSA  - - 
+  Semaphore  PICK O/S -  PHANTOM  - - 
+ Shuttle  PC BIOS - -  Spacve  Admin 
+ SIEMENS  SE515 -  admin   (none)  Administrator 
+ Siemens Nixdorf  Hicom 100E PBX -  31994   31994  - 
+ Siemens Nixdorf  Hicom 150E PBX -  31994   31994  - 
+ Siemens Nixdorf  PBX 8818  (none)   uboot  - 
+ Siemens Nixdorf  PC BIOS - -  SKY_FOX  Admin 
+ Siemens Nixdorf  PhoneMail -  poll   poll  - 
+ Siemens Nixdorf  PhoneMail -  system   system  - 
+ Siemens Nixdorf  PhoneMail -  system   field  - 
+ Siemens Nixdorf  PhoneMail -  poll   tech  - 
+ Siemens Nixdorf  PhoneMail -  sysadmin   sysadmin  - 
+ Siemens Nixdorf  PhoneMail -  tech   tech  - 
+ Siemens Nixdorf  ROLM PBX -  admin   pwp  - 
+ Siemens Nixdorf  ROLM PBX -  eng   engineer  - 
+ Siemens Nixdorf  ROLM PBX -  op   op  - 
+ Siemens Nixdorf  ROLM PBX -  op   operator  - 
+ Siemens Nixdorf  ROLM PBX -  su   super  - 
+ Silicon Graphics  IRIX -  6.x   (none)  Multi 
+ Silicon Graphics  IRIX -  6.x   (none)  Multi 
+ Silicon Graphics  IRIX -  4Dgifts   4Dgifts  Admin 
+ Silicon Graphics  IRIX -  4Dgifts   (none)  Admin 
+ Silicon Graphics  IRIX -  demos   (none)  Admin 
+ Silicon Graphics  IRIX -  Ezsetup   (none)  Admin 
+ Silicon Graphics  IRIX -  field   field  Admin 
+ Silicon Graphics  IRIX -  OutOfBox   (none)  Admin 
+ Silicon Graphics  IRIX -  tour   tour  Admin 
+ Silicon Graphics  IRIX -  tutor   (none)  Admin 
+ Silicon Graphics  IRIX -  tutor   tutor  Admin 
+ Site Interactive  Auction Weaver Lite -  admin   pass  Administrator 
+ SMC  Barricade Router -  Admin   Barricade  Administrator 
+ SMC  Barricade Router 7004ABR  (none)   0000  Administrator 
+ Smith & Bentzen  InstantWebMail (IWM) -  username   password  - 
+ Sonicwall  SOHO, TELE, TZ and PRO -  admin   password  Administrator 
+ Sovereign Hill  InQuery -  Admin   shs  Admin 
+ Sun  JavaServer -  admin   admin  Administrator 
+ Sun  Sun E10000 System Service Processor -  ssp   ssp  Admin 
+ Sun  SunOS -  root   t00lk1t  Administrator 
+ Sun  SunScreen 3.1 Lite  admin   admin  Admin 
+ SuperMicro  PC BIOS - -  ksdjfg934t  Admin Sybase  Adaptive Server Enterprise -  12.x   (none)  Multi 
+ Telus  Telephony Services -  (created)   telus00  User 
+ Telus  Telephony Services -  (created)   telus99  User 
+ TextPortal  TextPortal -  god1   12345  - 
+ TextPortal  TextPortal -  god2   12345  - 
+ Tim Schaab  Mad.Thought 2.0.1  theman   changeit  Administrator 
+ Tiny  PC BIOS - -  Tiny  Admin 
+ Tinys  PC BIOS - -  tiny  Admin 
+ TMC  PC BIOS - -  BIGO  Admin 
+ Toshiba  PC BIOS - -  24Banc81  Admin 
+ Toshiba  PC BIOS - -  Toshiba  Admin 
+ Toshiba  PC BIOS - -  toshy99  Admin 
+ Trend Micro  InterScan VirusWall -  admin   admin  Administrative 
+ Trend Micro  Trend Micro -  admin   admin  admin 
+ TYPO3  TYPO3 3.6  admin   password  Administrator 
+ Unex  NexIP Routers -  (none)   password  - 
+ UNIX  Generic -  adm   adm  Admin 
+ UNIX  Generic -  adm   (none)  Admin 
+ UNIX  Generic -  admin   admin  User 
+ UNIX  Generic -  administrator   administrator  User 
+ UNIX  Generic -  administrator   (none)  User 
+ UNIX  Generic -  anon   anon  User 
+ UNIX  Generic -  bbs   bbs  User 
+ UNIX  Generic -  bbs   (none)  User 
+ UNIX  Generic -  bin   sys  Admin 
+ UNIX  Generic -  checkfs   checkfs  User 
+ UNIX  Generic -  checkfsys   checkfsys  User 
+ UNIX  Generic -  checksys   checksys  User 
+ UNIX  Generic -  daemon   daemon  User 
+ UNIX  Generic -  daemon   (none)  User 
+ UNIX  Generic -  demo   demo  User 
+ UNIX  Generic -  demo   (none)  User 
+ UNIX  Generic -  demos   demos  User 
+ UNIX  Generic -  demos   (none)  User 
+ UNIX  Generic -  dni   (none)  User 
+ UNIX  Generic -  dni   dni  User 
+ UNIX  Generic -  fal   (none)  User 
+ UNIX  Generic -  fal   fal  User 
+ UNIX  Generic -  fax   (none)  User 
+ UNIX  Generic -  fax   fax  User 
+  UNIX  Generic -  ftp   (none)  User 
+ UNIX  Generic -  ftp   ftp  User 
+ UNIX  Generic -  games   games  User 
+ UNIX  Generic -  games   (none)  User 
+ UNIX  Generic -  gopher   gopher  User 
+ UNIX  Generic -  gropher   (none)  User 
+ UNIX  Generic -  guest   guest  User 
+ UNIX  Generic -  guest   guestgue  User 
+ UNIX  Generic -  guest   (none)  User 
+ UNIX  Generic -  halt   halt  User 
+ UNIX  Generic -  halt   (none)  User 
+ UNIX  Generic -  informix   informix  User 
+ UNIX  Generic -  install   install  Admin 
+ UNIX  Generic -  lp   lp  User 
+ UNIX  Generic -  lp   bin  User 
+ UNIX  Generic -  lp   lineprin  User 
+ UNIX  Generic -  lp   (none)  User 
+ UNIX  Generic -  lpadm   lpadm  User 
+ UNIX  Generic -  lpadmin   lpadmin  User 
+ UNIX  Generic -  lynx   lynx  User 
+ UNIX  Generic -  lynx   (none)  User 
+ UNIX  Generic -  mail   (none)  User 
+ UNIX  Generic -  mail   mail  User 
+ UNIX  Generic -  man   man  User 
+ UNIX  Generic -  man   (none)  User 
+ UNIX  Generic -  me   (none)  User 
+ UNIX  Generic -  me   me  User 
+ UNIX  Generic -  mountfs   mountfs  Admin 
+ UNIX  Generic -  mountfsys   mountfsys  Admin 
+ UNIX  Generic -  mountsys   mountsys  Admin 
+ UNIX  Generic -  news   news  User 
+ UNIX  Generic -  news   (none)  User 
+ UNIX  Generic -  nobody   (none)  User 
+ UNIX  Generic -  nobody   nobody  User 
+ UNIX  Generic -  nuucp   (none)  User 
+ UNIX  Generic -  operator   operator  User 
+ UNIX  Generic -  operator   (none)  User 
+ UNIX  Generic -  oracle   (none)  User 
+ UNIX  Generic -  postmaster   postmast  User 
+ UNIX  Generic -  postmaster   (none)  User 
+   UNIX  Generic -  powerdown   powerdown  User 
+ UNIX  Generic -  rje   rje  User 
+ UNIX  Generic -  root   root  Admin 
+ UNIX  Generic -  root   (none)  Admin 
+ UNIX  Generic -  setup   setup  Admin 
+ UNIX  Generic -  shutdown   shutdown  User 
+ UNIX  Generic -  shutdown   (none)  User 
+ UNIX  Generic -  sync   sync  User 
+ UNIX  Generic -  sync   (none)  User 
+ UNIX  Generic -  sys   sys  Admin 
+ UNIX  Generic -  sys   system  Admin 
+ UNIX  Generic -  sys   bin  Admin 
+ UNIX  Generic -  sysadm   sysadm  Admin 
+ UNIX  Generic -  sysadm   admin  Admin 
+ UNIX  Generic -  sysadmin   sysadmin  Admin 
+ UNIX  Generic -  sysbin   sysbin  Admin 
+ UNIX  Generic -  system_admin   (none)  Admin 
+ UNIX  Generic -  system_admin   system_admin  Admin 
+ UNIX  Generic -  trouble   trouble  User 
+ UNIX  Generic -  umountfs   umountfs  User 
+ UNIX  Generic -  umountfsys   umountfsys  User 
+ UNIX  Generic -  umountsys   umountsys  User 
+ UNIX  Generic -  unix   unix  User 
+ UNIX  Generic -  user   user  User 
+ UNIX  Generic -  uucp   uucp  User 
+ UNIX  Generic -  uucpadm   uucpadm  User 
+ UNIX  Generic -  web   (none)  User 
+ UNIX  Generic -  web   web  User 
+ UNIX  Generic -  webmaster   webmaster  User 
+ UNIX  Generic -  webmaster   (none)  User 
+ UNIX  Generic -  www   (none)  User 
+ UNIX  Generic -  www   www  User 
+ UNIX  Unix -  service   smile  - 
+ UNIX  UNIX -  setup  - - 
+ Unknown  POCSAG Radio Paging 2.05 -  password  Admin 
+ Unknown  System 88 -  test   test  User 
+ Unknown  System 88 -  operator   operator  Admin 
+ Unknown  System 88 -  overseer   overseer  Admin 
+ UTStarcom  B-NAS, B-RAS 1000  field   field  -  UTStarcom  B-NAS, B-RAS 1000  snmp   snmp  - 
+ UTStarcom  B-NAS, B-RAS 1000  dbase   dbase  - 
+ Verifone  Verifone Junior 2.05  (none)   166816  - 
+ Veritas  Cluster Server -  admin   password  Administrator 
+ vertex  VERTEX 1501 5.05  root   vertex25  Administrator 
+ Vextrec Technology  PC BIOS - -  Vextrex  - 
+ VieNuke  VieBoard 2.6  admin   admin  Administrator 
+ Virtual Programming  VP-ASP Shopping Cart 5.0  admin   admin  Administrator 
+ Virtual Programming  VP-ASP Shopping Cart 5.0  vpasp   vpasp  Administrator 
+ Visa VAP  VAP -  root   QNX  root 
+ Vobis  PC BIOS - -  merlin  - 
+ VPASP  VP-ASP Shopping Cart -  vpasp   vpasp  Admin 
+ VPASP  VP-ASP Shopping Cart -  admin   admin  Admin 
+ Web Wiz  Forums 7.x  Administrator   letmein  Administrator 
+ Webmin  Webmin -  admin   hp.com  Administrator 
+ Wim Bervoets  WIMBIOSnbsp BIOS - -  Compleri  Admin 
+ WWWBoard  WWWADMIN.PL -  WebAdmin   WebBoard  Admin 
+ X-Micro  WLAN 11b Broadband Router -  super   super  Administrator 
+ X-Micro  WLAN 11b Broadband Router -  1502   1502  Administrator 
+ Xerox  DocuColor 1632  admin   admin  Administrator 
+ Xerox  DocuColor 1632  (none)   11111  Administrator 
+ Xerox  Document Centre 432 -  admin   22222  Administrator 
+ Xerox  WorkCentre Pro 45  admin   1111  Administrator 
+ Xerox  WorkCentre/DocumentCentre -  savelogs   crash  - 
+ Xylan  Omniswitch -  admin   switch  Admin 
+ Xylan  Omniswitch -  diag   switch  - 
+ Xyplex  Routers - -  access  User 
+ Xyplex  Routers - -  system  Admin 
+ Xyplex  Terminal Server - -  access  User 
+ Xyplex  Terminal Server - -  system  Admin 
+ Zenith  PC BIOS - -  3098z  Admin 
+ Zenith  PC BIOS - -  Zenith  Admin 
+ ZEOS  PC BIOS - -  zeosx  Admin 
+ Zeus  Zeus Admin Server 4.1r2  admin    - 
+ Zyxel  Generic Routers - -  1234  Admin 
+ ZYXEL  Prestige 652HW-31 -  admin   1234  Administrator 
+  
+
+ UTStarcom  B-NAS, B-RAS 1000  guru   *3noguru  - 
+  
+
+
+
+  
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
